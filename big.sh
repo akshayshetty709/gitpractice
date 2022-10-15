@@ -1,4 +1,5 @@
 #!/bin/bash
+thank you
 echo "enter num1 and num2"
 read num1
 read num2
