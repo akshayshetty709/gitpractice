@@ -10,5 +10,5 @@ elif [ $num2 -gt $num1 ] && [ $num2 -gt $num3 ]; then
 elif [ $num3 -gt $num1 ] && [ $num3 -gt $num2 ]; then
         echo "$num3 is greater than $num1 and $num2"
 else
-        echo "all three numbers are equal"
+        echo "all three num are equal"
 fi
